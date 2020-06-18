@@ -1,0 +1,4 @@
+,City,Lat,Lng,MaxTemp,Humidity,Cloudiness,WindSpeed,Country,Date
+0,London,51.51,longitude,16.11,93,100,2.1,GB,06/17/20
+1,New York,40.71,longitude,22.0,82,90,2.6,US,06/17/20
+2,Boston,42.36,longitude,22.78,56,0,3.6,US,06/17/20
