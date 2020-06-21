@@ -1,3 +1,3 @@
 # python-api-challenge
 
-## Analyzing Real-time Weather and Mapping Geo-locations
+## Analyzing real-time weather and mapping Geo-locations
