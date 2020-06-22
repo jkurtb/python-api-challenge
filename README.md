@@ -20,7 +20,7 @@ Created a script to report and analyze the weather of 500+ cities across the wor
 
 Subsequently, the output entails a series of scatter plots to showcase the following relationships: 
 
-* ### Temperature (F) vs. Latitude
+* Temperature (F) vs. Latitude
 
 ![Fig1_LatitudeVsTemperature](https://user-images.githubusercontent.com/65078870/85260447-b2411780-b438-11ea-8c7f-29f6ed97fb29.png)
 
