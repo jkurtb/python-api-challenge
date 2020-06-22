@@ -89,9 +89,9 @@ Designed a script to consider weather data in real-time to plan for future vacat
 
 
 Personal Vacation Dreamboard
-
+<div align="center">
 <img width="488" alt="My_VacationSpots_Hotels" src="https://user-images.githubusercontent.com/65078870/85272387-1b7d5680-b44a-11ea-8863-c9a02fd9e851.PNG">
-
+</div>
 Geolocations 
 
 <img width="474" alt="Hotel_markers_hybrid" src="https://user-images.githubusercontent.com/65078870/85272662-78790c80-b44a-11ea-9ea6-18f824010ebb.PNG">
