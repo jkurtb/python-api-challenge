@@ -34,21 +34,21 @@ Subsequently, the output entails a series of scatter plots that showcase the fol
 * Humidity (%) vs. Latitude
 ![Fig2_LatitudeVsHumidity](https://user-images.githubusercontent.com/65078870/85260475-bec57000-b438-11ea-9993-222b67166ee5.png)
 
-  Figure 2 illustrates that humidity does not correlate strongly with latitude. The plots are scattered mostly between 60% to around 90% humidity readings.
+Figure 2 illustrates that humidity does not correlate strongly with latitude. The plots are scattered mostly between 60% to around 90% humidity readings.
 
-  It is believed that when relative humidity reaches 100%, the air is totally saturated with water vapor and more likely to rain.
+It is believed that when relative humidity reaches 100%, the air is totally saturated with water vapor and more likely to rain.
 
 * Cloudiness (%) vs. Latitude
 ![Fig3_LatitudeVsCloudiness](https://user-images.githubusercontent.com/65078870/85260510-cc7af580-b438-11ea-884f-496f8f24e25f.png)
 
-  Figure 3 illustrates that cloudiness rate does not have any correlation with latitude. But it appears to have colletion points along 0%, 75% and 100% readings.
+Figure 3 illustrates that cloudiness rate does not have any correlation with latitude. But it appears to have colletion points along 0%, 75% and 100% readings.
 
 * Wind Speed (mph) vs. Latitude
 ![Fig4_LatitudeVsWindspeed](https://user-images.githubusercontent.com/65078870/85260605-f207ff00-b438-11ea-95d3-1e935782807d.png)
 
-  Figure 4 illustrates that wind speed does not have any correlation with latitude.
+Figure 4 illustrates that wind speed does not have any correlation with latitude.
 
-  It shows that the speed of wind has been going at 0-5 meters/sec rate regardless of the city's latitude at the time the information was collected.
+It shows that the speed of wind has been going at 0-5 meters/sec rate regardless of the city's latitude at the time the information was collected.
 
 
 <div align="center">
