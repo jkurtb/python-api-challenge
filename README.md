@@ -4,9 +4,9 @@
 
 Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like? 
 
-  <div align="center">
-  <![image](https://user-images.githubusercontent.com/65078870/85256844-d699f580-b432-11ea-9b63-dc906277e188.png)
-  </div>
+![weather pic](https://user-images.githubusercontent.com/65078870/85257447-e1a15580-b433-11ea-834d-f57f0e19da50.png)
+<div align="center">
+
 source: Co.Design
 
 
