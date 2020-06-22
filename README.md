@@ -79,6 +79,12 @@ Furthermore, the output also showcases the regression on each relationship as th
 ---
 
 ## Part II - VacationPy
+<div align="center">
+  
+![wood-591618_1920](https://user-images.githubusercontent.com/65078870/85277699-d0ffd800-b451-11ea-9346-d81a8462b450.jpg)
+
+</div>
+Image by Michael Schwarzenberger from Pixabay
 
 ### Background
 Designed a script to consider weather data in real-time to plan for future vacations. Jupyter-gmaps displayed the intensity of humidity levels accross the globe. Google Places API performed an online data search for hotels following a set parameters. And the final output generated an interactive heat map showcasing heat maps and Geolocation markers. 
