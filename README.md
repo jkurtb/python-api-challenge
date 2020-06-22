@@ -50,6 +50,7 @@ Figure 4 illustrates that wind speed does not have any correlation with latitude
 
 It shows that the speed of wind has been going at 0-5 meters/sec rate regardless of the city's latitude at the time the information was collected.
 
+---
 
 <div align="center">
 
