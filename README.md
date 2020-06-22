@@ -55,7 +55,7 @@ Furthermore, the output also depicts the regression on each relationship as the 
 
    
 ![Fig5_linear](https://user-images.githubusercontent.com/65078870/85263613-6a70bf00-b43d-11ea-9303-020b3535b34d.png)![Fig6_linear](https://user-images.githubusercontent.com/65078870/85263761-a60b8900-b43d-11ea-8050-0d94790eda5e.png)
-* "Max Temperature vs. Latitude Linear Regression" in the Northern Hemisphere showed a moderately negative correlation.
+* "Max Temperature vs. Latitude Linear Regression" in the Northern Hemisphere showed a moderately negative correlation. On the other hand, the Southern Hemisphere showed a nearly strong postive correlation.
 
 
 ![Fig6_linear](https://user-images.githubusercontent.com/65078870/85263761-a60b8900-b43d-11ea-8050-0d94790eda5e.png)
