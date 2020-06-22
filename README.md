@@ -85,7 +85,28 @@ Designed a script to consider weather data in real-time to plan for future vacat
 
 ### Maps and Figures
 
+![image](https://user-images.githubusercontent.com/65078870/85272252-ebce4e80-b449-11ea-8615-e24ac53a1ea9.png)
+
+
 Personal Vacation Dreamboard
+
+<img width="488" alt="My_VacationSpots_Hotels" src="https://user-images.githubusercontent.com/65078870/85272387-1b7d5680-b44a-11ea-8863-c9a02fd9e851.PNG">
+
+Geolocations 
+
+<img width="474" alt="Hotel_markers_hybrid" src="https://user-images.githubusercontent.com/65078870/85272662-78790c80-b44a-11ea-9ea6-18f824010ebb.PNG">
+
+Hotel Marker Info
+
+<img width="532" alt="Hotel_markerInfo" src="https://user-images.githubusercontent.com/65078870/85272755-95154480-b44a-11ea-8911-ffda666f9fbb.PNG">
+
+Heatmap and Marker Combo
+
+<img width="478" alt="Hotel_heatmap" src="https://user-images.githubusercontent.com/65078870/85272851-baa24e00-b44a-11ea-9dfd-66b048227e75.PNG">
+
+
+
+
 
 
 
