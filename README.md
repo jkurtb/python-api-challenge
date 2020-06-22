@@ -13,7 +13,7 @@ source: Co.Design
 
 ## WeatherPy
 
-### Tools
+### Background
 Created a script to report and analyze the weather of 500+ cities across the world of varying distance from the equator, with the tools essentially required as follows: 
 * CityPy Python Library
 * OpenWeatherMap API
@@ -63,12 +63,17 @@ Furthermore, the output also showcases the regression on each relationship as th
 
 * "Humidity vs. Latitude" in the Northern Hemisphere showed no linear relationship, as the r-squared value is almost equal to zero. Likewise, "Humidity vs. Latitude" in the Southern Hemisphere also showed no linear relationship.
   
+---
 
-  
-  
- * Northern Hemisphere - Cloudiness (%) vs. Latitude Linear Regression
+![Fig9_linear](https://user-images.githubusercontent.com/65078870/85266212-8bd3aa00-b441-11ea-9471-f477791f887d.png) ![Fig10_linear](https://user-images.githubusercontent.com/65078870/85266223-8f673100-b441-11ea-985a-653ecdc4ac8a.png)
 
+* "Cloudiness vs. Latitude" in the Northern Hemisphere had no significant correlation based on the r-squared value. The plots appear no visible trend nor sensible shape. In the same manner in the Southern Hemisphere, where it had no significant correlation as indicated by its r-squared value. 
 
+---
+
+![Fig11_linear](https://user-images.githubusercontent.com/65078870/85266637-2207d000-b442-11ea-8561-085fdb4866bf.png) ![Fig12_linear](https://user-images.githubusercontent.com/65078870/85266644-246a2a00-b442-11ea-9f95-bbbd14e22781.png)
+
+* "Wind Speed vs. Latitude Linear Regression" in both the Northern and Southern Hemispheres showed no linear relationship. 
 
 
 
