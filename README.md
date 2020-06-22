@@ -52,7 +52,7 @@ Subsequently, the output entails a series of scatter plots that showcase the fol
 
 ### Linear Regression Analysis
 Furthermore, the output also showcases the regression on each relationship as the data is clustered into the Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude) locations.
-
+---
    
 ![Fig5_linear](https://user-images.githubusercontent.com/65078870/85263613-6a70bf00-b43d-11ea-9303-020b3535b34d.png)![Fig6_linear](https://user-images.githubusercontent.com/65078870/85263761-a60b8900-b43d-11ea-8050-0d94790eda5e.png)
 * "Max Temperature vs. Latitude Linear Regression" in the Northern Hemisphere showed a moderately negative correlation. On the other hand, the Southern Hemisphere showed a nearly strong postive correlation.
@@ -61,19 +61,22 @@ Furthermore, the output also showcases the regression on each relationship as th
  
 ![Fig7_linear](https://user-images.githubusercontent.com/65078870/85263880-d6ebbe00-b43d-11ea-9c56-3c0d25d810fb.png)![Fig8_linear](https://user-images.githubusercontent.com/65078870/85264065-1dd9b380-b43e-11ea-874a-3aa564315dc9.png)
 
-* "Humidity vs. Latitude" in the Northern Hemisphere showed no linear relationship, as the r-squared value is almost equal to zero. Likewise, "Humidity vs. Latitude" in the Southern Hemisphere also showed no linear relationship.
+* "Humidity vs. Latitude" in the Northern Hemisphere showed no linear relationship, as the r-squared value is almost equal to zero. Likewise, no correlation was observed in the Southern Hemisphere.
   
 ---
 
 ![Fig9_linear](https://user-images.githubusercontent.com/65078870/85266212-8bd3aa00-b441-11ea-9471-f477791f887d.png) ![Fig10_linear](https://user-images.githubusercontent.com/65078870/85266223-8f673100-b441-11ea-985a-653ecdc4ac8a.png)
 
-* "Cloudiness vs. Latitude" in the Northern Hemisphere had no significant correlation based on the r-squared value. The plots appear no visible trend nor sensible shape. In the same manner in the Southern Hemisphere, where it had no significant correlation as indicated by its r-squared value. 
+* "Cloudiness vs. Latitude" in the Northern Hemisphere had no significant relationship based on the r-squared value. The plots appear no visible trend nor sensible shape. The same manner was observed in the Southern Hemisphere where it had no significant correlation.
 
 ---
 
 ![Fig11_linear](https://user-images.githubusercontent.com/65078870/85266637-2207d000-b442-11ea-8561-085fdb4866bf.png) ![Fig12_linear](https://user-images.githubusercontent.com/65078870/85266644-246a2a00-b442-11ea-9f95-bbbd14e22781.png)
 
-* "Wind Speed vs. Latitude Linear Regression" in both Northern and Southern Hemispheres showed no linear relationship. 
+* "Wind Speed vs. Latitude Linear Regression" in both Northern and Southern Hemispheres showed no correlations. 
+
+---
+
 
 
 
