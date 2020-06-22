@@ -30,6 +30,9 @@ Subsequently, the output entails a series of scatter plots to showcase the follo
 
   The graphical plots depict a curve form rather than a straight line. It supports the variations brought about by other factors affecting climate patterns. One variable does not increase at a constant rate and may even start decreasing at a certain point.
 
+* Temperature (F) vs. Latitude
+![Fig1_LatitudeVsTemperature](https://user-images.githubusercontent.com/65078870/85260447-b2411780-b438-11ea-8c7f-29f6ed97fb29.png)
+
 * Humidity (%) vs. Latitude
 ![Fig2_LatitudeVsHumidity](https://user-images.githubusercontent.com/65078870/85260475-bec57000-b438-11ea-9993-222b67166ee5.png)
 
