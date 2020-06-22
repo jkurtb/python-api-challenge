@@ -11,7 +11,7 @@ Python requests, APIs, and JSON traversals to answer a fundamental question: "Wh
 </div>
 source: Co.Design
 
-## WeatherPy
+## Part I - WeatherPy
 
 ### Background
 Created a script to report and analyze the weather of 500+ cities across the world of varying distance from the equator, with the tools essentially required as follows: 
@@ -77,6 +77,15 @@ Furthermore, the output also showcases the regression on each relationship as th
 * "Wind Speed vs. Latitude Linear Regression" in both Northern and Southern Hemispheres showed no correlations. 
 
 ---
+
+## Part II - VacationPy
+
+### Background
+Designed a script to consider real-time weather data to plan for future vacations. Jupyter-gmaps displayed the intensity of humidity levels accross the globe. Google Places API performed an online data search for hotels following a set parameters. And the final output generated an interactive heat map showcasing heat maps and Geolocation markers. 
+
+### Maps and Figures
+
+Dream Vacation Board
 
 
 
