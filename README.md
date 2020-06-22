@@ -58,7 +58,7 @@ It shows that the speed of wind has been going at 0-5 meters/sec rate regardless
 
 #### The answer will not just be: "Duh. It gets hotter..."
 
-#### But, "I can find out real-time and show you what the world looks like with the current weather". 
+#### But, "I can find out real-time, show you some mathematical equations, and display figures that explain the weather". 
 
 ---
 
