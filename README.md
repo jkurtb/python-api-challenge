@@ -7,9 +7,9 @@ Python requests, APIs, and JSON traversals to answer a fundamental question: "Wh
 <div align="center">
   
 ![weather-3688572_1920](https://user-images.githubusercontent.com/65078870/85277188-fb9d6100-b450-11ea-8427-f224958a0f61.jpg)
-Image by mohamed Hassan from Pixabay
+
 </div>
-source: Co.Design
+Image by mohamed Hassan from Pixabay
 
 ## Part I - WeatherPy
 
