@@ -14,7 +14,7 @@ Image by mohamed Hassan from Pixabay
 ## Part I - WeatherPy
 
 ### Background
-Created a script to report and analyze the weather of 500+ cities across the world of varying distance from the equator. The following tools are essential: 
+Created a script to report and analyze the weather of 500+ cities across the world with varying distance from the equator. These tools have been very useful: 
 * CityPy Python Library
 * OpenWeatherMap API
 * and a little common sense to create a model representation of weather across world cities
@@ -50,9 +50,11 @@ Subsequently, the output entails a series of scatter plots that showcase the fol
 
   It shows that the speed of wind has been going at 0-5 meters/sec rate regardless of the city's latitude at the time the information was collected.
   
-Now, if someone ask a question: "What's the weather like as we approach the equator?"
-The answer will not just be: "Duh. It gets hotter..."
-But, "I can find out real-time and show you what the world looks like with the current weather". 
+##### Now, if someone ask a question: "What's the weather like as we approach the equator?"
+
+##### The answer will not just be: "Duh. It gets hotter..."
+
+##### But, "I can find out real-time and show you what the world looks like with the current weather". 
 
 
 ### Linear Regression Analysis
@@ -83,8 +85,9 @@ Furthermore, the output also showcases the regression on each relationship as th
 
 ---
 
-I know what you may be thinking: "The last charts or figures seem a little boring..."
-Okay, let's move on and dip into the world of Heatmaps and Geolocations. It's going to be more interesting, for sure. 
+##### I know what you may be thinking: "The last charts or figures seem a little boring..."
+
+##### Okay, let's move on and dip into the world of Heatmaps and Geolocations. It's going to be more interesting, for sure. 
 
 ## Part II - VacationPy
 <div align="center">
