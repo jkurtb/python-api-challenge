@@ -53,12 +53,11 @@ Subsequently, the output entails a series of scatter plots that showcase the fol
 ### Linear Regression Analysis
 Furthermore, the output also depicts the regression on each relationship as the data is clustered into the Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude) locations.
 
-      ![Fig5_linear](https://user-images.githubusercontent.com/65078870/85263613-6a70bf00-b43d-11ea-9303-020b3535b34d.png)
-
+   ![Fig5_linear](https://user-images.githubusercontent.com/65078870/85263613-6a70bf00-b43d-11ea-9303-020b3535b34d.png)
 * "Max Temperature vs. Latitude Linear Regression" in the Northern Hemisphere showed a moderately negative correlation.
 
 
-      ![Fig6_linear](https://user-images.githubusercontent.com/65078870/85263761-a60b8900-b43d-11ea-8050-0d94790eda5e.png)
+   ![Fig6_linear](https://user-images.githubusercontent.com/65078870/85263761-a60b8900-b43d-11ea-8050-0d94790eda5e.png)
 * On the other hand, "Max Temperature vs. Latitude Linear Regression" in the Southern Hemisphere showed a nearly strong postive correlation.
   
   
