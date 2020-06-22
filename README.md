@@ -21,16 +21,6 @@ Created a script to report and analyze the weather of 500+ cities across the wor
 Subsequently, the output entails a series of scatter plots to showcase the following relationships: 
 
 * Temperature (F) vs. Latitude
-
-![Fig1_LatitudeVsTemperature](https://user-images.githubusercontent.com/65078870/85260447-b2411780-b438-11ea-8c7f-29f6ed97fb29.png)
-
-  Figure 1 illustrates that the city's locations are situated somewhere between the latitude range of -60° at the South Pole and +80° at the North Pole of the Equator.
-
-  According to the National Geographic channel, there's a relationship between temperature and latitude around the world, as temperatures are typically warmer approaching the Equator. There are variations, though, as other factors such as elevation, ocean currents, and precipitation will still affect climate patterns.
-
-  The graphical plots depict a curve form rather than a straight line. It supports the variations brought about by other factors affecting climate patterns. One variable does not increase at a constant rate and may even start decreasing at a certain point.
-
-* Temperature (F) vs. Latitude
 ![Fig1_LatitudeVsTemperature](https://user-images.githubusercontent.com/65078870/85260447-b2411780-b438-11ea-8c7f-29f6ed97fb29.png)
  
  Figure 1 illustrates that the city's locations are situated somewhere between the latitude range of -60° at the South Pole and +80° at the North Pole of the Equator.
