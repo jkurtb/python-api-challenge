@@ -49,12 +49,13 @@ Subsequently, the output entails a series of scatter plots that showcase the fol
   Figure 4 illustrates that wind speed does not have any correlation with latitude.
 
   It shows that the speed of wind has been going at 0-5 meters/sec rate regardless of the city's latitude at the time the information was collected.
-  
-##### Now, if someone ask a question: "What's the weather like as we approach the equator?"
 
-##### The answer will not just be: "Duh. It gets hotter..."
-
-##### But, "I can find out real-time and show you what the world looks like with the current weather". 
+<div align="center">
+#### Now, if someone ask a question: "What's the weather like as we approach the equator?"
+<div align="center">
+#### The answer will not just be: "Duh. It gets hotter..."
+<div align="center">
+#### But, "I can find out real-time and show you what the world looks like with the current weather". 
 
 
 ### Linear Regression Analysis
