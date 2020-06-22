@@ -22,7 +22,7 @@ Created a script to report and analyze the weather of 500+ cities across the wor
 ### Figures and Analysis
 Subsequently, the output entails a series of scatter plots that showcase the following relationships: 
 
-* Temperature (F) vs. Latitude
+* Temperature (°C) vs. Latitude
 ![Fig1_LatitudeVsTemperature](https://user-images.githubusercontent.com/65078870/85260447-b2411780-b438-11ea-8c7f-29f6ed97fb29.png)
  
  Figure 1 illustrates that the location of cities are situated somewhere between the latitude range of -60° to +80° at the South Pole and North Pole of the Equator respectively.
@@ -43,7 +43,7 @@ It is believed that when relative humidity reaches 100%, the air is totally satu
 
 Figure 3 illustrates that cloudiness rate does not have any correlation with latitude. But it appears to have colletion points along 0%, 75% and 100% readings.
 
-* Wind Speed (mph) vs. Latitude
+* Wind Speed (m/s) vs. Latitude
 ![Fig4_LatitudeVsWindspeed](https://user-images.githubusercontent.com/65078870/85260605-f207ff00-b438-11ea-95d3-1e935782807d.png)
 
 Figure 4 illustrates that wind speed does not have any correlation with latitude.
