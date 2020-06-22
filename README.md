@@ -14,7 +14,7 @@ Image by mohamed Hassan from Pixabay
 ## Part I - WeatherPy
 
 ### Background
-Created a script to report and analyze the weather of 500+ cities across the world of varying distance from the equator, with the tools essentially required as follows: 
+Created a script to report and analyze the weather of 500+ cities across the world of varying distance from the equator. The following tools are essential: 
 * CityPy Python Library
 * OpenWeatherMap API
 * and a little common sense to create a model representation of weather across world cities
@@ -25,7 +25,7 @@ Subsequently, the output entails a series of scatter plots that showcase the fol
 * Temperature (F) vs. Latitude
 ![Fig1_LatitudeVsTemperature](https://user-images.githubusercontent.com/65078870/85260447-b2411780-b438-11ea-8c7f-29f6ed97fb29.png)
  
- Figure 1 illustrates that the city's locations are situated somewhere between the latitude range of -60° at the South Pole and +80° at the North Pole of the Equator.
+ Figure 1 illustrates that the location of cities are situated somewhere between the latitude range of -60° to +80° at the South Pole and North Pole of the Equator respectively.
 
   According to the National Geographic channel, there's a relationship between temperature and latitude around the world, as temperatures are typically warmer approaching the Equator. There are variations, though, as other factors such as elevation, ocean currents, and precipitation will still affect climate patterns.
 
@@ -49,6 +49,11 @@ Subsequently, the output entails a series of scatter plots that showcase the fol
   Figure 4 illustrates that wind speed does not have any correlation with latitude.
 
   It shows that the speed of wind has been going at 0-5 meters/sec rate regardless of the city's latitude at the time the information was collected.
+  
+Now, if someone ask a question: "What's the weather like as we approach the equator?"
+The answer will not just be: "Duh. It gets hotter..."
+But, "I can find out real-time and show you what the world looks like with the current weather". 
+
 
 ### Linear Regression Analysis
 Furthermore, the output also showcases the regression on each relationship as the data is clustered into the Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude) locations.
@@ -78,10 +83,13 @@ Furthermore, the output also showcases the regression on each relationship as th
 
 ---
 
+I know what you may be thinking: "The last charts or figures seem a little boring..."
+Okay, let's move on and dip into the world of Heatmaps and Geolocations. It's going to be more interesting, for sure. 
+
 ## Part II - VacationPy
 <div align="center">
   
-![wood-591618_1920](https://user-images.githubusercontent.com/65078870/85277699-d0ffd800-b451-11ea-9346-d81a8462b450.jpg)
+![wood-591618_1280](https://user-images.githubusercontent.com/65078870/85289784-f39bec00-b465-11ea-998d-9caf4e43f2f2.jpg)
 
 </div>
 Image by Michael Schwarzenberger from Pixabay
@@ -94,24 +102,27 @@ Designed a script to consider weather data in real-time to plan for future vacat
 ![image](https://user-images.githubusercontent.com/65078870/85272252-ebce4e80-b449-11ea-8615-e24ac53a1ea9.png)
 
 
-#### Personal Vacation Dreamboard
+#### My Vacation Dreamboard
 <div align="center">
 <img width="488" alt="My_VacationSpots_Hotels" src="https://user-images.githubusercontent.com/65078870/85272387-1b7d5680-b44a-11ea-8863-c9a02fd9e851.PNG">
 </div>
+
 #### Geolocations 
 <div align="center">
 <img width="474" alt="Hotel_markers_hybrid" src="https://user-images.githubusercontent.com/65078870/85272662-78790c80-b44a-11ea-9ea6-18f824010ebb.PNG">
 </div>
-#### Geolocation with Label Info
+
+#### Geolocation and Label Info
 <div align="center">
 <img width="532" alt="Hotel_markerInfo" src="https://user-images.githubusercontent.com/65078870/85272755-95154480-b44a-11ea-8911-ffda666f9fbb.PNG">
 </div>
-#### Heatmap and Marker Layer Combo
+
+#### Geolocation with Heatmap and Pinned Markers
 <div align="center">
 <img width="478" alt="Hotel_heatmap" src="https://user-images.githubusercontent.com/65078870/85272851-baa24e00-b44a-11ea-9dfd-66b048227e75.PNG">
 </div>
 
-
+---
 
 
 
