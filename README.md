@@ -19,11 +19,9 @@ Created a script to report and analyze the weather of 500+ cities across the wor
 * and a little common sense to create a model representation of weather across world cities
 
 Subsequently, the output entails a series of scatter plots to showcase the following relationships: 
-
 <div align="center">
 ![Fig1_LatitudeVsTemperature](https://user-images.githubusercontent.com/65078870/85260447-b2411780-b438-11ea-8c7f-29f6ed97fb29.png)
 </div>
-
 * ### Temperature (F) vs. Latitude
   Figure 1 illustrates that the city's locations are situated somewhere between the latitude range of -60° at the South Pole and +80° at the North Pole of the Equator.
 
