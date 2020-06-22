@@ -90,7 +90,7 @@ Furthermore, the output also showcases the regression on each relationship as th
 
 ---
 
-##### I know what you may be thinking: "The last charts or figures seem a little boring..."
+##### I know what you may be thinking: "The last charts or figures seemed a little boring..."
 
 ##### Okay, let's move on and dip into the world of Heatmaps and Geolocations. It's going to be more interesting, for sure. 
 
