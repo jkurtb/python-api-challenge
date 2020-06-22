@@ -73,7 +73,7 @@ Furthermore, the output also showcases the regression on each relationship as th
 
 ![Fig11_linear](https://user-images.githubusercontent.com/65078870/85266637-2207d000-b442-11ea-8561-085fdb4866bf.png) ![Fig12_linear](https://user-images.githubusercontent.com/65078870/85266644-246a2a00-b442-11ea-9f95-bbbd14e22781.png)
 
-* "Wind Speed vs. Latitude Linear Regression" in both the Northern and Southern Hemispheres showed no linear relationship. 
+* "Wind Speed vs. Latitude Linear Regression" in both Northern and Southern Hemispheres showed no linear relationship. 
 
 
 
