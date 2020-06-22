@@ -57,8 +57,8 @@ Furthermore, the output also showcases the regression on each relationship as th
 ![Fig5_linear](https://user-images.githubusercontent.com/65078870/85263613-6a70bf00-b43d-11ea-9303-020b3535b34d.png)![Fig6_linear](https://user-images.githubusercontent.com/65078870/85263761-a60b8900-b43d-11ea-8050-0d94790eda5e.png)
 * "Max Temperature vs. Latitude Linear Regression" in the Northern Hemisphere showed a moderately negative correlation. On the other hand, the Southern Hemisphere showed a nearly strong postive correlation.
  
-  
-
+ ---
+ 
 ![Fig7_linear](https://user-images.githubusercontent.com/65078870/85263880-d6ebbe00-b43d-11ea-9c56-3c0d25d810fb.png)![Fig8_linear](https://user-images.githubusercontent.com/65078870/85264065-1dd9b380-b43e-11ea-874a-3aa564315dc9.png)
 
 * "Humidity vs. Latitude" in the Northern Hemisphere showed no linear relationship, as the r-squared value is almost equal to zero. Likewise, "Humidity vs. Latitude" in the Southern Hemisphere also showed no linear relationship.
