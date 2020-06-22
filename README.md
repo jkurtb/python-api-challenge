@@ -6,7 +6,7 @@ Python requests, APIs, and JSON traversals to answer a fundamental question: "Wh
 
 <div align="center">
   
-![weather pic](https://user-images.githubusercontent.com/65078870/85257447-e1a15580-b433-11ea-834d-f57f0e19da50.png)
+![weather pic](https://user-images.githubusercontent.com/65078870/85257447-e1a15580-b433-11ea-834d-f57f0e19da50.png) ![The Services Provided by Software Development Companies in Present Times](https://user-images.githubusercontent.com/65078870/85276081-4027fd00-b44f-11ea-8eaf-ce7b6d61e9e1.png)
 
 </div>
 source: Co.Design
@@ -88,22 +88,22 @@ Designed a script to consider weather data in real-time to plan for future vacat
 ![image](https://user-images.githubusercontent.com/65078870/85272252-ebce4e80-b449-11ea-8615-e24ac53a1ea9.png)
 
 
-Personal Vacation Dreamboard
+#### Personal Vacation Dreamboard
 <div align="center">
 <img width="488" alt="My_VacationSpots_Hotels" src="https://user-images.githubusercontent.com/65078870/85272387-1b7d5680-b44a-11ea-8863-c9a02fd9e851.PNG">
 </div>
-Geolocations 
-
+#### Geolocations 
+<div align="center">
 <img width="474" alt="Hotel_markers_hybrid" src="https://user-images.githubusercontent.com/65078870/85272662-78790c80-b44a-11ea-9ea6-18f824010ebb.PNG">
-
-Hotel Marker Info
-
+</div>
+#### Geolocation with Label Info
+<div align="center">
 <img width="532" alt="Hotel_markerInfo" src="https://user-images.githubusercontent.com/65078870/85272755-95154480-b44a-11ea-8911-ffda666f9fbb.PNG">
-
-Heatmap and Marker Combo
-
+</div>
+#### Heatmap and Marker Layer Combo
+<div align="center">
 <img width="478" alt="Hotel_heatmap" src="https://user-images.githubusercontent.com/65078870/85272851-baa24e00-b44a-11ea-9dfd-66b048227e75.PNG">
-
+</div>
 
 
 
