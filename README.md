@@ -50,11 +50,13 @@ Subsequently, the output entails a series of scatter plots that showcase the fol
 
   It shows that the speed of wind has been going at 0-5 meters/sec rate regardless of the city's latitude at the time the information was collected.
 
+
 <div align="center">
+
 #### Now, if someone ask a question: "What's the weather like as we approach the equator?"
-<div align="center">
+
 #### The answer will not just be: "Duh. It gets hotter..."
-<div align="center">
+
 #### But, "I can find out real-time and show you what the world looks like with the current weather". 
 
 
